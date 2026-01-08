@@ -11,6 +11,7 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
    git clone https://github.com/eugeniomorocho/Computer_Vision.git```
 
 2. Navigate to the specific Notebook's directory:
+
    ```bash
    cd Computer_Vision/NOTEBOOK_x/```
    

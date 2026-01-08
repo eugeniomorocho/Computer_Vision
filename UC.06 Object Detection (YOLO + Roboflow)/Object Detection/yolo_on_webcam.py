@@ -1,9 +1,13 @@
+# pip install ultralytics
+
 from ultralytics import YOLO
+import cv2
+
 model = YOLO('yolo11n.pt')
 
 results = model.predict(
     source=0, # source=0 uses the default webcam, use source=1 for an external camera
-    show=True, # show=True to display the video feed with detections in a window 
+    #show=True, # show=True to display the video feed with detections in a window 
     stream=True, # stream=True for real-time processing of video frames
     imgsz=256, # resize frames to 256x256 for faster processing and lower resource usage
     vid_stride=3, # process every 3rd frame to reduce CPU/GPU load
@@ -11,3 +15,13 @@ results = model.predict(
     #verbose=False # stops printing per-frame logs
     #conf=0.3, # confidence threshold of 30% (default is 0.25). Adjust as needed.
 )
+
+for r in results:
+    frame = r.plot()  # YOLO-drawn frame
+
+    cv2.imshow("YOLO", frame)
+
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+cv2.destroyAllWindows()

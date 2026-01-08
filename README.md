@@ -26,11 +26,43 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Computer_Vision/issues). We appreciate your feedback!
 
-### Happy coding!
+## Contents
+
+### Unit 1: Introduction to Computer Vision
+
+### Unit 2: Image Filtering and Convolutions 
+
+### Unit 3: Naural Networks and CNN (Image Classification)
+
+### Unit 4: Transfer Learning
+
+### Unit 5: Face Detection
+
+### Unit 6: Object Detection (YOLO + Roboflow)
+
+### Unit 7: Image Segmentation
+
+### Unit 8: 3D Reconstruction (drone imagery)
+
+### 9. Pose Estimation
+
+### 10. Tracking
+
+### UC.11 Generative AI
+
+### NVIDIA TAO Toolkit and DeepStream (Docker + Jetson Nano 2GB Developer Kit)
+
+### UC.13 Computer Vision on the Cloud (AWS REkognition, Lookout for Vision, and SageMaker)
+
+---
+### Happy learning!
 
 <br>
 <br>
 
-***Manuel Eugenio Morocho-Cayamcela, PhD.***
+<p style="text-align: right; font-size:14px; color:gray;">
+<b>Prepared by:</b><br>
+Manuel Eugenio Morocho-Cayamcela, Ph.D.
+</p>
 
 <img src="yt.png" alt="drawing" style="width: 200px;" />

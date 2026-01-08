@@ -63,7 +63,7 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 [2] Szeliski, R. (2022). Computer Vision: Algorithms and Applications (2nd ed.). Springer Cham. https://doi.org/https://doi.org/10.1007/978-3-030-34372-9 
 
-[3] Prince, S. J. D. (2012). Computer vision: models, learning and inference. http://www.computervisionmodels.com. 
+[3] Prince, S. J. D. (2012). Computer vision: models, learning and inference. https://www.cambridge.org/ca/universitypress/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-models-learning-and-inference 
 
 ---
 ### Happy learning!

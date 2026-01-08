@@ -7,11 +7,15 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 1. Clone this repository to your local machine:  
 
-   ```git clone https://github.com/eugeniomorocho/Computer_Vision.git```
+   ```
+   git clone https://github.com/eugeniomorocho/Computer_Vision.git
+   ```
 
 2. Navigate to the specific Notebook's directory:  
 
-   ```cd Computer_Vision/NOTEBOOK_x/```
+   ```
+   cd Computer_Vision/NOTEBOOK_x/
+   ```
    
 3. Follow the instructions in the file for each week's lab.
 

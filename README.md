@@ -57,10 +57,17 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 ### UC.13 Computer Vision on the Cloud (AWS REkognition, Lookout for Vision, and SageMaker)
 
+## Bibliography
+
+[1] Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
+
+[2] Szeliski, R. (2022). Computer Vision: Algorithms and Applications (2nd ed.). Springer Cham. https://doi.org/https://doi.org/10.1007/978-3-030-34372-9 
+
+[3] Prince, S. J. D. (2012). Computer vision: models, learning and inference. http://www.computervisionmodels.com. 
+
 ---
 ### Happy learning!
 
-<br>
 <br>
 
 <p style="text-align: right; font-size:14px; color:gray;">
@@ -68,4 +75,4 @@ If you encounter any issues or have suggestions for improvement, please [open an
 Manuel Eugenio Morocho-Cayamcela, Ph.D.
 </p>
 
-<img src="yt.png" alt="drawing" style="width: 200px;" />
+<img src="LOGOTIPO-YACHAY-TECH-UITEY-2023.png" alt="drawing" style="width: 200px;" />
